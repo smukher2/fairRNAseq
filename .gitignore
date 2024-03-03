@@ -1,0 +1,11 @@
+documentation/
+env/
+furtherReading/
+ignore/
+input/
+input_tmp/
+nonCodingTools/
+output_final/
+output_public/
+output_tmp/
+src/
