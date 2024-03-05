@@ -22,7 +22,7 @@ ref15: How to stop plagiarism. Nature 481, 21–23 (2012). https://doi.org/10.10
 ref16: Plagiarism in Art Cases and How to Avoid It https://fixgerald.com/blog/plagiarism-in-art  
 
 ### Dedication
-This project is dedicated to the fantastic 130, who are my 130 favorite STEAM (science and arts) heroes:  
+This project is dedicated to the fantastic 133, who are my 133 favorite STEAM (science and arts) heroes:  
 Alexander von Humboldt (Ger) https://www.britannica.com/biography/Alexander-von-Humboldt  
 Hermann von Helmholtz (Ger) https://www.britannica.com/biography/Hermann-von-Helmholtz  
 Gottfried Wilhelm von Leibniz (Ger) https://www.britannica.com/biography/Gottfried-Wilhelm-Leibniz  
@@ -135,15 +135,18 @@ Warren Buffer (US) https://www.britannica.com/biography/Warren-Edward-Buffett
 Nikola Tesla (US) https://www.britannica.com/biography/Nikola-Tesla  
 Steve Jobs (US) https://www.britannica.com/biography/Steve-Jobs  
 Bill Gates (US) https://www.britannica.com/biography/Bill-Gates  
-Jeff Bezos (US) https://www.britannica.com/biography/Jeff-Bezos  
+Jeff Bezos (US) https://www.britannica.com/biography/Jeff-Bezos and https://www.thinklikeamazon.co  
+Elon Musk (South Africa, Canada, US) https://www.britannica.com/biography/Elon-Musk  
 Larry Page (US) https://www.britannica.com/biography/Larry-Page  
 Sergey Brin (US) https://www.britannica.com/biography/Sergey-Brin  
 Mark Zuckerberg (US) https://www.britannica.com/biography/Mark-Zuckerberg  
+Albert Einstein (Germany, Switzerland, Austria, US) https://www.britannica.com/biography/Albert-Einstein  
 Richard Feynman (US) https://www.britannica.com/biography/Richard-Feynman  
 Robert W. Taylor (US) https://computerhistory.org/profile/robert-w-taylor, https://www.britannica.com/technology/Internet, https://nationalmedals.org/laureate/robert-w-taylor, https://www.wired.com/2017/04/youve-never-heard-tech-legend-bob-taylor-invented-almost-everything and https://en.wikipedia.org/wiki/Robert_Taylor_(computer_scientist)  
 Steve Horvath (Germany, US, now in UK) https://en.wikipedia.org/wiki/Steve_Horvath  
 Jennifer Doudna (US) https://www.britannica.com/biography/Jennifer-Doudna  
-Ivanka Trump (US) https://www.britannica.com/biography/Ivanka-Trump  
+Ivanka Trump (US) https://www.britannica.com/biography/Ivanka-Trump and https://www.amazon.co.uk/Trump-Card-Playing-Work-Life-ebook/dp/B00BORYW2K  
+Jack Dorsey (US) https://www.britannica.com/biography/Jack-Dorsey and https://books.google.co.uk/books/about/Twitter.html?id=7FHbvAEACAAJ  
 Tomonaga Shin’ichirō (JPN) https://www.britannica.com/biography/Tomonaga-Shinichiro  
 Shiga Kiyoshi (JPN) https://www.britannica.com/biography/Shiga-Kiyoshi  
 Lao Tzu (China) https://www.britannica.com/biography/Laozi  
@@ -154,15 +157,15 @@ Cai Lun, inventor paper (China) https://www.britannica.com/biography/Cai-Lun
 Jack Ma (China) https://www.britannica.com/biography/Jack-Ma  
 Chung Ju-yung (South Korea) https://en.wikipedia.org/wiki/Chung_Ju-yung and https://www.tiktok.com/@founderspodcast/video/7109487310638550318  
 
-This project is also dedicated to the mother tongue of the fantastic 130, the language in which they thought, namely, English, German, French, Chinese and others.  
+This project is also dedicated to the mother tongue of the fantastic 133, the language in which they thought, namely, English, German, French, Chinese and others.  
 
 ### Goals
-Human overpopulation induced loss of biodiversity and climate change are the greatest challenges of present times. This complex problem will require complex solutions that an interdisciplinay application of STEAM knowledge with AI can provide. To fulfill this need of the hour, FAIRwissenschaft aims to be a STEAM (and AI) learning resource by adding multidisciplinary context to the fantastic 130's interdisciplinary work. As an interdisciplinary scientist and as a human being, it is my dream and duty to do FAIRwissenschaft project as a small token of thanks to the fantastic 130, STEAM disciplines and planet Earth for my life and work.  
+Human overpopulation induced loss of biodiversity and climate change are the greatest challenges of present times. This complex problem will require complex solutions that an interdisciplinay application of STEAM knowledge with AI can provide. To fulfill this need of the hour, FAIRwissenschaft aims to be a STEAM (and AI) learning resource by adding multidisciplinary context to the fantastic 133's interdisciplinary work. As an interdisciplinary scientist and as a human being, it is my dream and duty to do FAIRwissenschaft project as a small token of thanks to the fantastic 133, STEAM disciplines and planet Earth for my life and work.  
 
 The money thus made from sale of FAIRwissenschaft Project, will be used to fund 'planetarian work' focused on developing interdiciplinary STEAM mechanisms to solve human over population problem, the root of all planet earth's problems. Most existing funds are provided for humanitarian work, such as healthcare, with limited funds dedicated to environmental science and biodiveristy conservation. All these existing funds, sidestep the root cause of (non-human) biodiversity extinction, destruction of nature, and loss of human quality of life, which is human overpopulation (explained here: Inferno Extended Scene - Zobrists Presentation - YouTube https://youtu.be/6Z40g6Qsuk8?si=AeP6bSYFi_MI6MnH). The present human population is atleast 2/3rd in excess. To solve this lack of funds for tackling root cause of all our problems, namely human overpopulation, money made from sale of FAIRwissenschaft Project, will be used to fund Planetarian Project that aims at to stop human overpopulation, and save planet earth. As opposed to humanitarian work, planetarian work is focused on saving planet earth and its endangered non-human biodiversity, especially by stifling human overpopulation. When planet earth and its endangered non-human biodiversity is saved, quality of life for humans can be improved.  
 
 ### Methods or Tools  
-The foundation of FAIRwissenschaft Project heavily utilizes the work of fantastic 130 and heavily utilises science and technology from UK, Germany, France, Switzerland, Austria, Poland, Belgium, Greece, Italy, Netherlands, Denmark, Norway, Sweden, Finland, Canada, Australia, New Zealand, China, Japan, South Korea and US.
+The foundation of FAIRwissenschaft Project heavily utilizes the work of fantastic 133 and heavily utilises science and technology from UK, Germany, France, Switzerland, Austria, Poland, Belgium, Greece, Italy, Netherlands, Denmark, Norway, Sweden, Finland, Canada, Australia, New Zealand, China, Japan, South Korea and US.
 
 ### Values  
 FAIRwissenschaft Project is based on three core values:  
